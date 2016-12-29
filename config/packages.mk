@@ -39,7 +39,8 @@ PRODUCT_PACKAGES += \
     CarbonDelta \
     Seedvault \
     SimpleGallery \
-    ExactCalculator
+    ExactCalculator \
+    Recorder
 
 # SetupWizard
 PRODUCT_PACKAGES += \
