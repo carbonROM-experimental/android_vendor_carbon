@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
     VanillaMusic \
     CarbonDelta \
     Seedvault \
-    SimpleGallery \
+    FossifyGallery \
     ExactCalculator \
     Recorder
 
